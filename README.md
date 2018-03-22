@@ -16,6 +16,6 @@ No Extras
 4. express
 5. mocha
 
-## **STYLING:
+## **STYLING:**
 
 No Styling
