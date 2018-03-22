@@ -1,10 +1,14 @@
-# EXPRESS SERVER
+# **EXPRESS SERVER**
 
-## DESCRIPTION
+## **DESCRIPTION:**
 
-### EXTRAS
+An Assignment where I created a simple Express server.
 
-#### DEPENDENCIES
+## **EXTRAS:**
+
+No Extras
+
+## **DEPENDENCIES:**
 
 1. morgan
 2. chai
@@ -12,4 +16,6 @@
 4. express
 5. mocha
 
-##### STYLING
+## **STYLING:
+
+No Styling
